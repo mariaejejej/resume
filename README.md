@@ -1,2 +1,2 @@
 # resume
-Extended resume of my studies and knowledge
+Extended resume of my studies and knowledge.
